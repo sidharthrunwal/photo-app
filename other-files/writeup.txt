@@ -1,0 +1,15 @@
+What corrections did you have to make?
+I had a missing language error, so I had to specify <html lang="en"> for the screen reader to work.
+
+Given that the photos and captions rely on user-generated content, do you think that the accessibility problems are all solvable? Why or why not?
+I think with where we are in image processing, we can detect and label objects like a mountain. But given that users can post a large variety of content and a lot of it about people in their lives, I think a screen reader would struggle.
+
+Do you think your website is usable if you turn off the CSS? Why or why not?
+Yes. While the contents are not aesthetically appealing, it is certainly usable as you can look at pictures, usernames, captions, and comments.
+
+
+Do you think your website is usable if you turn off the images? Why or why not?
+I couldn't figure out how to "turn off" the images. Does that mean remove all the image tags?
+
+Submit a screenshot of your Wave report
+
